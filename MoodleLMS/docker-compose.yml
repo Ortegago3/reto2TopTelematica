@@ -7,7 +7,7 @@ services:
       - 80:80
     restart: always
     environment:
-      MOODLE_DATABASE_HOST: 172.31.47.5 # IP del servidor de base de datos MySQL
+      MOODLE_DATABASE_HOST: <IP-Private> # IP privada de la base de datos
       MOODLE_DATABASE_USER: moodle_user
       MOODLE_DATABASE_PASSWORD: 12345
       MOODLE_DATABASE_NAME: moodle_db
