@@ -1,7 +1,10 @@
 # Topicos Especiales en Telematica
 # Estudiantes:
 - Holmer Ortega Gomez
-- 
+- Moises David Arrieta Hernandez
+- Alberto Andres Diaz Mejia
+- Diego Alexander Munera Tobon
+- Andres Felipe Rua Ortega
 # Reto: Despliegue de WordPress Distribuido
 
 # 1. Descripción del proyecto
